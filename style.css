@@ -1,0 +1,23 @@
+body {
+  background: url("im.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+.welcome img {
+  width: 25%;
+  border-radius: 100px;
+}
+
+.welcome {
+  display : flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.welocome-text {
+  padding: 10px
+  color:white;
+  }
